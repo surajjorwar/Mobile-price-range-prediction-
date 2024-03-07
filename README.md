@@ -8,4 +8,4 @@
 
 4.Most important features (descending order): RAM, resolution,battery_power,mobile_wt, screen_area, int_memory, talk_time, clock_speed, pc, m_dep, fc, n_cores.
 
-5.Model reaches a peak accuracy of 91%.
+5.Model reaches a peak accuracy of 92%.
